@@ -1,2 +1,1 @@
-liczba = input('Wprowadzona przez ciebie liczba to')
-print(liczba)   
+print(input('Wprowadzona przez ciebie liczba to '))
